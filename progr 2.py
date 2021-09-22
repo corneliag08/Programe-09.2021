@@ -1,9 +1,7 @@
 Zile = [ 'Luni' , 'Marti' , 'Miercuri' , 'Joi' , 'Vineri' , 'Sambata' , 'Duminica' ]
 y=[250,300,400,250,100,270,405]
 x=max(y)
-print (max(y))
 x1=min(y)
-print (min(y))
 xmare=[]
 xmic=[]
 for i in range (len(Zile)):
